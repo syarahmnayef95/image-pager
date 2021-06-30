@@ -1,0 +1,3 @@
+rootProject.name = "image-pager"
+include ':app'
+include ':libraryImagePager'
